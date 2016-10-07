@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using MySQL.Data.EntityFrameworkCore.Extensions;
+using MySQL.Data.Entity.Extensions;
 using WebApplication.Data;
 using WebApplication.Models;
 using WebApplication.Services;

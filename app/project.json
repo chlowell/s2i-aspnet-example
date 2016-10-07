@@ -37,7 +37,7 @@
       "version": "1.0.0-preview2-final",
       "type": "build"
     },
-    "MySql.Data.EntityFrameworkCore": "7.0.5-ir21" 
+    "SapientGuardian.EntityFrameworkCore.MySql": "7.1.9"
   },
 
   "tools": {
